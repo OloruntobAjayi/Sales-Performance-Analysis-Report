@@ -54,6 +54,12 @@ This analysis provides actionable insights to optimize sales strategies and impr
 
 ![](Happysales.png)
 
+## Acknowledgemnent 🙏 🙏
+
+Online sources were used to obtain the sales report and the happysale image for this analysis:
+- https://www.freshwork.com
+- https://www.paperflite.com
+
 
 
 
