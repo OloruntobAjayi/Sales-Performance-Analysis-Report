@@ -22,7 +22,7 @@ The task here inludes to Calculate the following:
 
 
 
-## Problem Statement for TASK_TWO
+## Problem Statement:
 
 The primary goal of the analysis is to draw insightful conclusions from the sales data, including the average revenue for "Paseo," the volume of sales in the "Government" and "Midmarket" segments, the total revenue from "Montana" sales in Canada, the highest unit of goods sold in a given region, segment, and month, and the total profit in December.
 
