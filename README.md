@@ -41,7 +41,7 @@ To calculate the average revenue generated from each sale of 'Paseo,' I used the
 
 ## Conclusions and Recommendations
 
-Based on our analysis:
+Based on this analysis:
 
 - 'Paseo' generates an average revenue of **$163,422** per sale. Consider optimizing sales strategies for 'Paseo' to increase revenue further.
 - 'Government' and 'Midmarket' segments account for a total of **400** sales. Focus on these segments to generate more sales which can lead to potential growth opportunities.
